@@ -1,0 +1,11 @@
+h1 {
+    color:limegreen;
+    background-color: pink;
+    width: 400px;
+}
+
+/* Class that will be used to play down the completed tasks */
+.completed { 
+    text-decoration: line-through;
+    color: #888;
+}
